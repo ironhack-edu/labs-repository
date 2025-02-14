@@ -1,0 +1,9 @@
+lab_id: lab-functions-en
+repo_owner: ironhack-labs
+repo_name: lab-functions-en
+repo_url: https://github.com/ironhack-labs/lab-functions-en
+instruction_files:
+  - path: main.ipynb
+has_solutions: true
+solution_files:
+  - path: lab-functions-en.ipynb

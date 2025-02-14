@@ -7,3 +7,11 @@ instruction_files:
 has_solutions: true
 solution_files:
   - path: lab-functions-en.ipynb
+
+tracks:
+  da:
+    week: 2
+  ml:
+    week: 3
+  ai:
+    week: 3

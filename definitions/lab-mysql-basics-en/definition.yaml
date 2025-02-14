@@ -1,0 +1,15 @@
+lab_id: lab-mysql-basics-en
+repo_owner: ironhack-labs
+repo_name: lab-mysql-basics-en
+repo_url: https://github.com/ironhack-labs/lab-mysql-basics-en
+instructions_files:
+  - path: readme.md
+has_solutions: true
+solution_files:
+  - path: solutions.sql
+
+tracks:
+  da:
+    week: 1
+  ml:
+    week: 1
